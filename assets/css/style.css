@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container .circle {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  background-image: linear-gradient(violet, indigo, blue, green, yellow, orange, red);
+}
+
+/*# sourceMappingURL=style.css.map */
